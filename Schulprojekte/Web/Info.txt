@@ -1,8 +1,0 @@
-Dieses Projekt hat folgende Funktionen:
-
-Sprache: HTML/CSS/JS
-Beschreibung: Onlineauftritt von fiktivem IT-Security Unternehmen
-Funktionen:
--> Online Auftritt mit Hauptseite, Produktanzeige, Login, Registrieren, Über-Uns etc.
--> Resposive Design anwendung
--> Moderne Grafiken und Icons (Bootstrap3, jQuery, Fontawesome)
