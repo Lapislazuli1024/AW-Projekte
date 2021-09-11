@@ -1,0 +1,9 @@
+Dieses Projekt hat folgende Funktionen:
+
+Sprache: C
+Beschreibung: Verwaltung von verketteter Liste in C zur manipulieren von Datenstrukturens
+Funktionen:
+-> Verkettete Liste erstellen
+-> Verkettete Liste sortieren
+-> Verkettete Liste ausgeben
+-> Verkettete Liste vollständig aus Speicher löschen
