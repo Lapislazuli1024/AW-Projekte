@@ -1,0 +1,8 @@
+Dieses Projekt hat folgende Funktionen:
+
+Sprache: Microsoft PowerShell
+Beschreibung: Automatisches Skript zum Ausführen von Datei Back-up einer Ordnerstruktur
+Funktionen:
+-> Ordner & Dateien rekursiv kopieren
+-> Originale Ordnerstruktur und Back-Up Ordnerstruktur vergleichen um Fehler zu erkennen
+-> Detaillierter Log über Kopiervorgang anlegen.
