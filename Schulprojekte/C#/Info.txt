@@ -1,0 +1,9 @@
+Dieses Projekt hat folgende Funktionen:
+
+Sprache: C#/.Net
+Beschreibung: Verwaltung von Personendaten mit Objekten + konsistente Speicherung in Binärdatei
+Funktionen:
+-> Personendaten aus Datei lesen
+-> Personendaten bearbeiten
+-> Personen hinzufügen/löschen
+-> Personendaten konsistent in Binärdatei speichern

@@ -1,0 +1,28 @@
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csprojAssemblyReference.cache
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.Properties.Resources.resources
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csproj.GenerateResource.cache
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.exe.config
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.exe
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.pdb
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.exe
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.pdb
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.exe.config
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.exe
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\Personen-Applikation v2.0.pdb
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csprojAssemblyReference.cache
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.Personen_Applikation.resources
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.Properties.Resources.resources
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csproj.GenerateResource.cache
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.csproj.CoreCompileInputs.cache
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.exe
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen-Applikation v2.0.pdb
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\aa\Personen-Applikation v2.0.resources.dll
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.FormNeu.resources
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.FormNeu.aa.resources
+D:\Persönliche Daten\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\aa\Personen-Applikation v2.0.resources.dll
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.Personen_Applikation.resources
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.FormNeu.resources
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\Personen_Applikation_v2._0.FormNeu.aa.resources
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\bin\Debug\aa\Personen-Applikation v2.0.resources.dll
+C:\Users\vmadmin\Documents\OneDrive\OneDrive - sluz\C#\Modul 226a\Personen-Applikation v2.0\Personen-Applikation v2.0\obj\Debug\aa\Personen-Applikation v2.0.resources.dll
